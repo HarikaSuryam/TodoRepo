@@ -53,7 +53,8 @@ a{
 	width:100%;
 	padding:0;
 	position:relative;
-	transform:translate(0px,80px);
+	transform:translate(0px,74px);
+	z-index : -1;
 }
 
 #section_id1
