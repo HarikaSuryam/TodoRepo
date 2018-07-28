@@ -110,17 +110,22 @@ a{
 #section_id3
 {	
 	height:500px;
-	width:100%;
-	background-color:#D4F0F1;
-}
-.section3_bg{
+	width:100%;	
 	background-image:url("images/workplace.jpg");
-	background-attachment:fixed;
 	background-repeat:no-repeat;
+	background-size:100% 100%;	
 }
 
 .image_styling img{
 	height:100px;
 	width:100px;
 	padding:10px;	
+}
+.section3_styling
+{
+	color:#000000;
+	background-color:#ffffff;
+	text-align:center;    
+	opacity:0.5;
+	height:500px;
 }
